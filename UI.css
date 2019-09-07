@@ -1,0 +1,142 @@
+body{
+  margin:0px;
+  padding:0px;
+}
+.header{
+  border-bottom:1px solid black;
+  height:55px;
+}
+
+.bar{
+   float:left;;
+   height:40px;
+   width:40px;
+}
+.youtube_logo{
+  float:left;
+  width:75px;
+  height:50 px;
+}
+.search{
+  width:350px;
+  height:30px;
+  float:left;
+  margin-left: 150px;
+  margin-top: 10px;
+  color:#3A8EC7;
+}
+.search_box{
+  border:1px solid gray;
+  width:49px;
+  height:33px;
+  margin-top: 10px;
+}
+.combo{
+float:right;
+  width:200px;
+  height:50px;
+}
+.main_div{
+  float:left;
+  width:70%;
+  margin-left: 15px;
+  margin-top: 15px;
+
+}
+.inner_main{
+  width:90%;
+}
+.main_img{
+  border:2px solid black;
+  width:100%;
+  height:50%;
+
+}
+.right{
+  width:28%;
+  float:left;
+  margin-left:0px;
+}
+.para1{
+  margin-top: 0px;
+}
+#span1{
+  color:blue;
+  font-size: 12px;
+
+}
+#span2{
+  font-size: 25px;
+}
+#span3{
+  float:left;
+}
+.span4{
+  float:left;
+  margin-left: 150px;
+}
+.autoplay{
+  width:30px;
+  height:20px;
+}
+.side_image1{
+  float:left;
+  width:150px;
+  height:80px;
+}
+#side_image2{
+  float:left;
+  width:150px;
+  height:80px;
+
+}
+.para2{
+  margin-left:20px;
+  margin-top: 0px;
+}
+.span5{
+  color:gray;
+  font-size:12px;
+}
+#view{
+  flaot:left;
+}
+.save{
+  float:right;
+  width:40%;
+
+}
+#span6{
+  color:#5C5C5A;
+  font-size: 20px;
+}
+.arrow{
+  width:30px;
+  height:30px;
+}
+.pic_div{
+  float:left;
+  width:50px;
+  margin-left: 10px;
+  height:70%;
+}
+.mypic{
+  border-radius: 100px 100px 100px 100px;
+  width:40px;
+  height:50px;
+}
+#span7{
+  font-size: 18px;
+  color:#2A2B2B;
+  font-family:Times New Roman;
+}
+.reply{
+  width:200px;
+  height:30px;
+
+}
+.reply_last{
+  width:200px;
+  height:30px;
+  margin-left: 50px;
+}
