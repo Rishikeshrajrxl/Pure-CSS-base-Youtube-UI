@@ -32,9 +32,11 @@ body{
   margin-top: 10px;
 }
 .combo{
+    margin-right: 15px;
+  margin-top: 10px;
 float:right;
-  width:200px;
-  height:50px;
+  width:30px;
+  height:30px;
 }
 .main_div{
   float:left;
