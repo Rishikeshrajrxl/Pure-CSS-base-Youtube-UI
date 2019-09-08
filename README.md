@@ -1,2 +1,2 @@
 # Pure-CSS-base-Youtube-UI
-#Html #CSS
+This project is published here: https://rishikeshrajrxl.github.io/Pure-CSS-base-Youtube-UI/
