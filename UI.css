@@ -103,7 +103,8 @@ float:right;
 #view{
   flaot:left;
 }
-.save{
+.likenew{
+  margin-left:5px;
   float:right;
   width:40%;
 
